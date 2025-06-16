@@ -1,5 +1,5 @@
 # Recipe Foodie
-This android app is build using MVVM design pattern with Jetpack compose and kotlin as the based of the development.
+This android app is build using MVVM design pattern with Jetpack compose, kotlin and themealsdb.com api as the based of the development.
 The app use libraries such as:-
 - Hilt for dependency injection
 - Android Room for storing data in database
